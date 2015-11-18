@@ -216,8 +216,4 @@ $(document).ready(function () {
     
     $(".hero-title").fitText(1.2, { minFontSize: '20px', maxFontSize: '72px' });
     $(".biglink").fitText(1.2, { minFontSize: '20px', maxFontSize: '72px' });
-<<<<<<< HEAD
 });
-=======
-});
->>>>>>> origin/master
