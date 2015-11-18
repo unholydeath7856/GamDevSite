@@ -853,6 +853,7 @@ h4 {
 
 .biglink {
     display: inline-block;
+    font-size: 56px;
     font-weight: 300;
     margin-bottom: 75px;
 }
